@@ -7,7 +7,7 @@ This is a simple React Native application that displays the text "My name is You
 
 ## Screenshot
 
-![Screenshot of the React Native App](screenshot.jpeg)
+![Screenshot of the React Native App](<Screenshot of project.png>)
 
 ## Task
 
